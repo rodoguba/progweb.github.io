@@ -1,19 +1,16 @@
 html{
-	background-color: #00251423;
+	background-color: #F5A9F2;
 }
 body{
-	width: 600px;
-	background-color: #59cee6;
-	padding: 0 10px 10px 10px;
+	width: 800px;
+	background-color: #FFFFFF;
+	padding: 0 80px 80px 80px;
 	border: 3px solid black;
-	margin: 0px 50px 50px 50px;
-}
-tbody{
-	color: whith;
+	margin: 0px 80px 80px 80px;
 }
 td{
-	border: 1px solid black;
+	border: 3px solid black;
 }
 th{
-	border: 1px solid black;
+	border: 3px solid black;
 }
